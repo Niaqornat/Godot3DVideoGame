@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c1g87c4sdv8ne"
+path="res://.godot/imported/WoodPlanks.obj-1e9ad300033d37e18030ff681971a74a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/WoodPlanks.obj-1e9ad300033d37e18030ff681971a74a.mesh"]
+
+source_file="res://Pixel Blocks/OBJ/WoodPlanks.obj"
+dest_files=["res://.godot/imported/WoodPlanks.obj-1e9ad300033d37e18030ff681971a74a.mesh", "res://.godot/imported/WoodPlanks.obj-1e9ad300033d37e18030ff681971a74a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

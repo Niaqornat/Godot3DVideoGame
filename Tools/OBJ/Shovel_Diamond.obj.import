@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bfpq1mrurrvsj"
+path="res://.godot/imported/Shovel_Diamond.obj-c416f3ebad947c7c4dbf66f0b6c4acac.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Shovel_Diamond.obj-c416f3ebad947c7c4dbf66f0b6c4acac.mesh"]
+
+source_file="res://Tools/OBJ/Shovel_Diamond.obj"
+dest_files=["res://.godot/imported/Shovel_Diamond.obj-c416f3ebad947c7c4dbf66f0b6c4acac.mesh", "res://.godot/imported/Shovel_Diamond.obj-c416f3ebad947c7c4dbf66f0b6c4acac.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ci1hgh6m3jtiq"
+path="res://.godot/imported/Ice.obj-3efcf41c3dabdde779c8ba3a3126911e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Ice.obj-3efcf41c3dabdde779c8ba3a3126911e.mesh"]
+
+source_file="res://Pixel Blocks/OBJ/Ice.obj"
+dest_files=["res://.godot/imported/Ice.obj-3efcf41c3dabdde779c8ba3a3126911e.mesh", "res://.godot/imported/Ice.obj-3efcf41c3dabdde779c8ba3a3126911e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

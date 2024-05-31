@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cx5i2ysj0lj7q"
+path="res://.godot/imported/Bamboo.obj-09911d1ad66474c55dd25894b7b38603.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bamboo.obj-09911d1ad66474c55dd25894b7b38603.mesh"]
+
+source_file="res://Environment/OBJ/Bamboo.obj"
+dest_files=["res://.godot/imported/Bamboo.obj-09911d1ad66474c55dd25894b7b38603.mesh", "res://.godot/imported/Bamboo.obj-09911d1ad66474c55dd25894b7b38603.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

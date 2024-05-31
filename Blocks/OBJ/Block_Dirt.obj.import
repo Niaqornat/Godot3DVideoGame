@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://wie3so7onpdv"
+path="res://.godot/imported/Block_Dirt.obj-7f16a61d3486b2e0f15f76214329f8fb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Block_Dirt.obj-7f16a61d3486b2e0f15f76214329f8fb.mesh"]
+
+source_file="res://Blocks/OBJ/Block_Dirt.obj"
+dest_files=["res://.godot/imported/Block_Dirt.obj-7f16a61d3486b2e0f15f76214329f8fb.mesh", "res://.godot/imported/Block_Dirt.obj-7f16a61d3486b2e0f15f76214329f8fb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

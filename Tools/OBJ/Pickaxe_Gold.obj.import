@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://50sifn3dcv5n"
+path="res://.godot/imported/Pickaxe_Gold.obj-d198dc9728e77770829162309a0ee510.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Pickaxe_Gold.obj-d198dc9728e77770829162309a0ee510.mesh"]
+
+source_file="res://Tools/OBJ/Pickaxe_Gold.obj"
+dest_files=["res://.godot/imported/Pickaxe_Gold.obj-d198dc9728e77770829162309a0ee510.mesh", "res://.godot/imported/Pickaxe_Gold.obj-d198dc9728e77770829162309a0ee510.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

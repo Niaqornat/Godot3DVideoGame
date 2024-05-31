@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tubaqkxdl5mm"
+path="res://.godot/imported/Block_Brick.obj-ee5436c260375209facb1c363b1efe04.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Block_Brick.obj-ee5436c260375209facb1c363b1efe04.mesh"]
+
+source_file="res://Blocks/OBJ/Block_Brick.obj"
+dest_files=["res://.godot/imported/Block_Brick.obj-ee5436c260375209facb1c363b1efe04.mesh", "res://.godot/imported/Block_Brick.obj-ee5436c260375209facb1c363b1efe04.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

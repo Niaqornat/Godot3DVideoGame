@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ce6fs8a1bwt7j"
+path="res://.godot/imported/Axe_Stone.obj-0a1e06b98ac1a05e9e78cda181571a24.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Axe_Stone.obj-0a1e06b98ac1a05e9e78cda181571a24.mesh"]
+
+source_file="res://Tools/OBJ/Axe_Stone.obj"
+dest_files=["res://.godot/imported/Axe_Stone.obj-0a1e06b98ac1a05e9e78cda181571a24.mesh", "res://.godot/imported/Axe_Stone.obj-0a1e06b98ac1a05e9e78cda181571a24.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

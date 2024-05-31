@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ef1vfbe52qx8"
+path="res://.godot/imported/Shovel_Stone.obj-461ebfecfda0dcc128635eea1afac93c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Shovel_Stone.obj-461ebfecfda0dcc128635eea1afac93c.mesh"]
+
+source_file="res://Tools/OBJ/Shovel_Stone.obj"
+dest_files=["res://.godot/imported/Shovel_Stone.obj-461ebfecfda0dcc128635eea1afac93c.mesh", "res://.godot/imported/Shovel_Stone.obj-461ebfecfda0dcc128635eea1afac93c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

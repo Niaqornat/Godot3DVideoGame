@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b588rlr2748hh"
+path.s3tc="res://.godot/imported/Sword_Wood-135adc6c456ff5b23bf4b5f570311c30_Atlas.png-e891848d293e41fcb6b731d2d0693d2f.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "dac414321d33da82b685f85877ee23ee"
+}
+
+[deps]
+
+source_file="res://Tools/FBX/Sword_Wood-135adc6c456ff5b23bf4b5f570311c30_Atlas.png"
+dest_files=["res://.godot/imported/Sword_Wood-135adc6c456ff5b23bf4b5f570311c30_Atlas.png-e891848d293e41fcb6b731d2d0693d2f.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

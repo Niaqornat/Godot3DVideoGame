@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://disuq1v7jxf7w"
+path="res://.godot/imported/Shovel_Wood.obj-ed7b713f93288b2017b262c6bb02d37f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Shovel_Wood.obj-ed7b713f93288b2017b262c6bb02d37f.mesh"]
+
+source_file="res://Tools/OBJ/Shovel_Wood.obj"
+dest_files=["res://.godot/imported/Shovel_Wood.obj-ed7b713f93288b2017b262c6bb02d37f.mesh", "res://.godot/imported/Shovel_Wood.obj-ed7b713f93288b2017b262c6bb02d37f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

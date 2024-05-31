@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b50qqan6btte1"
+path="res://.godot/imported/Snow.obj-1f298aa74b370e59a45bd633861e407d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Snow.obj-1f298aa74b370e59a45bd633861e407d.mesh"]
+
+source_file="res://Pixel Blocks/OBJ/Snow.obj"
+dest_files=["res://.godot/imported/Snow.obj-1f298aa74b370e59a45bd633861e407d.mesh", "res://.godot/imported/Snow.obj-1f298aa74b370e59a45bd633861e407d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

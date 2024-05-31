@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ocy1kx4q5qbt"
+path="res://.godot/imported/Block_Coal.obj-9084a0b980ce8b54f13c9a350be6d411.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Block_Coal.obj-9084a0b980ce8b54f13c9a350be6d411.mesh"]
+
+source_file="res://Blocks/OBJ/Block_Coal.obj"
+dest_files=["res://.godot/imported/Block_Coal.obj-9084a0b980ce8b54f13c9a350be6d411.mesh", "res://.godot/imported/Block_Coal.obj-9084a0b980ce8b54f13c9a350be6d411.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

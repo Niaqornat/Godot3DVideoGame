@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ilory2epachw"
+path="res://.godot/imported/Goblin.obj-f52e64f7a4a82c9a0a4dba832451202d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Goblin.obj-f52e64f7a4a82c9a0a4dba832451202d.mesh"]
+
+source_file="res://Enemies/OBJ/Goblin.obj"
+dest_files=["res://.godot/imported/Goblin.obj-f52e64f7a4a82c9a0a4dba832451202d.mesh", "res://.godot/imported/Goblin.obj-f52e64f7a4a82c9a0a4dba832451202d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
